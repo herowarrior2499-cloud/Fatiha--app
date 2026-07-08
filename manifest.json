@@ -1,0 +1,20 @@
+{
+  "name": "تدبّر - الفاتحة",
+  "short_name": "تدبّر",
+  "description": "تطبيق لتدبر القرآن: نص، تفسير، معجم، وربط بين الآيات",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0A1F1B",
+  "theme_color": "#0A1F1B",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
